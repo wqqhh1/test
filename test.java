@@ -28,7 +28,7 @@ public class test {
             }
 
         }
-        for (int i = 0; i < arr1.length; i++) {
+        for (int i = 0; i < arr1.length; i++) {  //哈哈哈哈哈哈哈哈哈
             System.out.println(arr1[i]);
 
         }
